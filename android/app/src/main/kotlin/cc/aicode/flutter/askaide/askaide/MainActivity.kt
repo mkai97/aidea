@@ -1,4 +1,4 @@
-package cc.aicode.flutter.askaide.askaide
+package dev.mkai.aidea.app;
 
 import io.flutter.embedding.android.FlutterActivity
 
